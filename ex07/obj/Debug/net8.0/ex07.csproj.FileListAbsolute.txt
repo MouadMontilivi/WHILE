@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\WHILE\ex07\bin\Debug\net8.0\ex07.exe
+C:\Users\Usuario\source\repos\WHILE\ex07\bin\Debug\net8.0\ex07.deps.json
+C:\Users\Usuario\source\repos\WHILE\ex07\bin\Debug\net8.0\ex07.runtimeconfig.json
+C:\Users\Usuario\source\repos\WHILE\ex07\bin\Debug\net8.0\ex07.dll
+C:\Users\Usuario\source\repos\WHILE\ex07\bin\Debug\net8.0\ex07.pdb
+C:\Users\Usuario\source\repos\WHILE\ex07\obj\Debug\net8.0\ex07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\WHILE\ex07\obj\Debug\net8.0\ex07.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\WHILE\ex07\obj\Debug\net8.0\ex07.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\WHILE\ex07\obj\Debug\net8.0\ex07.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\WHILE\ex07\obj\Debug\net8.0\ex07.dll
+C:\Users\Usuario\source\repos\WHILE\ex07\obj\Debug\net8.0\refint\ex07.dll
+C:\Users\Usuario\source\repos\WHILE\ex07\obj\Debug\net8.0\ex07.pdb
+C:\Users\Usuario\source\repos\WHILE\ex07\obj\Debug\net8.0\ex07.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\WHILE\ex07\obj\Debug\net8.0\ref\ex07.dll

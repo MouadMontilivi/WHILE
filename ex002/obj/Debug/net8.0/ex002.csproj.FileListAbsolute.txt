@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\WHILE\ex002\bin\Debug\net8.0\ex002.exe
+C:\Users\Usuario\source\repos\WHILE\ex002\bin\Debug\net8.0\ex002.deps.json
+C:\Users\Usuario\source\repos\WHILE\ex002\bin\Debug\net8.0\ex002.runtimeconfig.json
+C:\Users\Usuario\source\repos\WHILE\ex002\bin\Debug\net8.0\ex002.dll
+C:\Users\Usuario\source\repos\WHILE\ex002\bin\Debug\net8.0\ex002.pdb
+C:\Users\Usuario\source\repos\WHILE\ex002\obj\Debug\net8.0\ex002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\WHILE\ex002\obj\Debug\net8.0\ex002.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\WHILE\ex002\obj\Debug\net8.0\ex002.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\WHILE\ex002\obj\Debug\net8.0\ex002.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\WHILE\ex002\obj\Debug\net8.0\ex002.dll
+C:\Users\Usuario\source\repos\WHILE\ex002\obj\Debug\net8.0\refint\ex002.dll
+C:\Users\Usuario\source\repos\WHILE\ex002\obj\Debug\net8.0\ex002.pdb
+C:\Users\Usuario\source\repos\WHILE\ex002\obj\Debug\net8.0\ex002.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\WHILE\ex002\obj\Debug\net8.0\ref\ex002.dll
